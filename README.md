@@ -37,10 +37,9 @@ Nous sommes les premiers à avoir fait un voyage megaversel et nous avons choisi
     
 ## 💻 Connexion au serveur...
 
-```sh
-Chargement des données...
-⚠ Erreur, le lien n'a pas pu être établie !
-```
+
+❌ Acces refusé!
+
 
 ## 📋 Meta
 
