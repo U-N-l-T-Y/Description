@@ -21,38 +21,11 @@
 
 </p>
 
-🔒 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
-## 🛠 Instalação
 
-OS X & Linux:
+## 🛠 Création
 
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## 📈 Exemplo de uso
-
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado.
-
-Adicione blocos de códigos e, se necessário, screenshots.
-
-_Para mais exemplos, consulte a [Wiki](wiki)._ 
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-```sh
-make install
-npm test
-```
+Nous sommes les premiers à avoir fait un voyage megaversel et nous avons choisis ce nom car nous avons trouver un livre et nous avons déchivrer le nom de "UNITY"
 
 ## 🗃 Historiques des rapport
 
@@ -61,20 +34,20 @@ npm test
 * 0.2.0
     * Armes de tiers 9 volées
     * Renforcement des defenses
+    
+## 💻 Connexion au serveur...
 
+```sh
+Chargement des données...
+⚠ Erreur, le lien n'a pas pu être établie !
+```
 
 ## 📋 Meta
 
-Seu Nome – [Portfólio](https://www...) – SeuEmail@exemplo.com
+```sh
+Chargement des données...
+⚠ Erreur, le lien n'a pas pu être établie !
+```
 
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
-[https://github.com/seuUsuario/nomeDoRepositorio](https://github.com/devgabrieldejesus/)
 
-## 🚀 Contribuição
-
-1. Faça o _fork_ do projeto (<https://github.com/seuUsuario/nomeDoRepositorio/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b meu-novo-recurso`)
-3. Faça o _commit_ (`git commit -am 'Adicionando um novo recurso...'`)
-4. _Push_ (`git push origin meu-novo-recurso`)
-5. Crie um novo _Pull Request_
