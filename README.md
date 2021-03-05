@@ -4,7 +4,9 @@
 
 # U.N.I.T.Y
 
+<p align="center">
 🛡 | 𝙱𝚊𝚜𝚎 𝚕𝚎𝚐𝚊𝚌𝚢, 𝚂𝚎𝚌𝚝𝚎𝚞𝚛 𝚘𝚖𝚎𝚐𝚊, 𝚃𝚎𝚛𝚛𝚎 𝟷𝟺𝟿
+</p>
 
 <p align="center">
   <img alt="Nombre employé" src="https://img.shields.io/static/v1?label=Employés&message=8459&style=for-the-badge&color=4A90E2&labelColor=222222" />
@@ -52,20 +54,14 @@ make install
 npm test
 ```
 
-## 🗃 Histórico de lançamentos
+## 🗃 Historiques des rapport
 
 * 0.2.1
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
+    * Trentaine de soldats bléssé/morts
 * 0.2.0
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1
-    * Trabalho em andamento
+    * Armes de tiers 9 volées
+    * Renforcement des defenses
+
 
 ## 📋 Meta
 
